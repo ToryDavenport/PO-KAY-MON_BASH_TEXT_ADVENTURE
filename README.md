@@ -2,5 +2,5 @@
 
 This was a school project, to build a text adventure game!
 
-Extreme thanks to the one and only Jonathan S. Weissman for all of the teaching and mentorship during
+Special thanks to the one and only Jonathan S. Weissman for his teaching and mentorship during
 my studies at FLCC.
